@@ -1,4 +1,4 @@
-#include<stdio.h>/*puts syntax usage*/
+#include<stdio.h>
 
 /**
  *printing using puts syntax
