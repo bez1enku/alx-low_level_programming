@@ -1,4 +1,9 @@
 #include<stdio.h>
+
+/**
+ * main entry point
+ * Return alway 0 and success
+ */
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
