@@ -1,12 +1,12 @@
-#include<stdio.h>
+#include<stdio.h>/*puts syntax usage*/
 
 /**
- * main entry point
- *
- * Return alway 0 and success
- */
-int main(void)
+ *printing using puts syntax
+*main: entry point
+*/
+* int main(void)
 {
-	puts("\"programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle"\n);
 	return (0);
+	/*return : exit point and  0 imply (sucess)*/
 }
