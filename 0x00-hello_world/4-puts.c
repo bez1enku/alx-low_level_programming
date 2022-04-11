@@ -1,13 +1,11 @@
 #include<stdio.h>
 /**
-*printing using puts syntax
-*main: entry point
+*main - entry point
+* 
+* Return:after successfully printing the result 
 */
 int main(void)
-/*main is entry point of th program*/
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
-	/**
-	 * return : exit point and  0 imply (sucess)
-	 * /
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
