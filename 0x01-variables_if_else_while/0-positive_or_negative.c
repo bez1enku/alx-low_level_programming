@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main print a random number and states whether
+ * if else exercise
+*main: print a random number and states whether
 *it is positive, negative or zero
 *
 *Return: alway return 0
